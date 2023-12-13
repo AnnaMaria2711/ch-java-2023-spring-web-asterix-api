@@ -1,4 +1,4 @@
-package com.example.chjava2023springwebasterixapi;
+package com.example.chjava2023springwebasterixapi.character;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

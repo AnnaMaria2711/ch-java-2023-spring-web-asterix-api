@@ -1,4 +1,4 @@
-package com.example.chjava2023springwebasterixapi;
+package com.example.chjava2023springwebasterixapi.character;
 
 
 public record Character(
